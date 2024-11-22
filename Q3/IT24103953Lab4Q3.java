@@ -10,3 +10,5 @@ public class IT24103953Lab4Q3 {
         num=input.nextInt();
         message = (num==0) ? "This number is : Zero" : (num>0) ? "This number is : Negative" : (num<0) ? "This number is : Positive";
         System.out.print(message);
+    }
+}
